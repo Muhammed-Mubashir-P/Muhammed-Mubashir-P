@@ -1,7 +1,11 @@
 # Hi 👋, I'm Muhammed Mubashir P
+
 A passionate Cybersecurity Enthusiast from India 🔐  
 
----
+<img src="https://komarev.com/ghpvc/?username=Muhammed-Mubashir-P&label=Visitors&color=green&style=for-the-badge" />
+
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ### 💻 About Me  
 
@@ -15,11 +19,12 @@ A passionate Cybersecurity Enthusiast from India 🔐
 
 ---
 
-### 🤝 Connect with Me  
+### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mubashir-p/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/gyroscope](https://tryhackme.com/p/shadowcipher))
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail4mubashirp@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shadowcipher)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammed-Mubashir-P)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail4mubashirp@gmail.com)
 
 ---
 
@@ -36,7 +41,6 @@ A passionate Cybersecurity Enthusiast from India 🔐
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF%20Challenges-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
 ---
@@ -47,6 +51,11 @@ A passionate Cybersecurity Enthusiast from India 🔐
 - Vulnerability Assessment & Penetration Testing (VAPT)  
 - Cyber Risk & Defensive Security  
 - System Hacking and CTF Challenges
+
+---
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Mubashir-P&show_icons=true&locale=en&layout=compact&theme=radical" alt="Muhammed-Mubashir-P" />
+</p>
 
 ---
 
