@@ -16,8 +16,10 @@ A passionate Cybersecurity Enthusiast from India 🔐
 ---
 
 ### 🤝 Connect with Me  
-- [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/muhammed-mubashir-p/))  
-- [TryHackMe]([https://tryhackme.com/p/gyroscope](https://tryhackme.com/p/shadowcipher))  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mubashir-p/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/gyroscope](https://tryhackme.com/p/shadowcipher))
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail4mubashirp@gmail.com)
 
 ---
 
